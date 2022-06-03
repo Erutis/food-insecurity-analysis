@@ -11,9 +11,6 @@ Based on our findings, what recommendations can we make to help address key unre
 ## Table of Contents: 
 - Problem
 - Data Acquisition & Methods
-- Cleaning & EDA Notebook: 01_cleaning
-- Geodata Notebook: 02_geodata
-- Modeling Notebook: 03_modeling
 - Results
 - Conclusion
 - Bonus: Modeling
